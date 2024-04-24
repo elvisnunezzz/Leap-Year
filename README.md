@@ -14,7 +14,7 @@ This Java application calculates the total number of leap years between a starti
 1. Ensure Java is installed on your machine. You can check this by running `java -version` in the command line.
 2. Download the source code from the repository or clone it using:
    ```
-   git clone <repository-url>
+   git clone <https://github.com/elvisnunezzz/Leap-Year/blob/main/nuneelvi_Program1.java>
    ```
 3. Navigate to the directory containing the project files.
 4. Compile the Java program using:
